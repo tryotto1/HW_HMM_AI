@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\hmm.h(1008,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\main.cpp(37,37): warning C4838: '__int64'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\main.cpp(37,42): warning C4305: '초기화 중': '__int64'에서 'float'(으)로 잘립니다.
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\main.cpp(95,14): warning C4305: 'return': '__int64'에서 'float'(으)로 잘립니다.
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\main.cpp(108,133): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\main.cpp(116,100): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\main.cpp(115,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\main.cpp(127,36): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\main.cpp(136,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\main.cpp(151,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\main.cpp(161,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\main.cpp(177,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\main.cpp(304,20): warning C4305: '초기화 중': '__int64'에서 'float'(으)로 잘립니다.
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\main.cpp(475,39): warning C4244: '인수': 'int'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\main.cpp(596): warning C4715: 'int_to_phone': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\main.cpp(637): warning C4715: 'word_to_int': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\tryot\source\repos\인공지능 HMM 구현\인공지능 HMM 구현\main.cpp(677): warning C4715: 'word_to_int': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  인공지능 HMM 구현.vcxproj -> C:\Users\tryot\source\repos\인공지능 HMM 구현\Debug\인공지능 HMM 구현.exe
